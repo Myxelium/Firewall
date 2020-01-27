@@ -2,7 +2,7 @@
 A script that can add an entire folder, with subfolders to the windows firewall.
 
 # What does it do?
-It blocks all EXE and DLL files within the directory and it's subdirectories.
+It blocks all EXE and DLL files within the directory and it's subdirectories from reciving and sending data through any network connection.
 
 # How do I use it?
 If you want to use it, place it in the directory you want to block and run it as Administrator.
